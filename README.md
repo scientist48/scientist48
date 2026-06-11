@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Talha Talib
 
+![banner](banner.png)
+
 ### Data Analyst | BI Developer | Data Annotation Specialist | Aspiring ML Practitioner
 
 > I work with data to clean, analyze, visualize, and extract insights using Power BI, SQL, and Python. I also have experience in data annotation for AI/ML datasets.
